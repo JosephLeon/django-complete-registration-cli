@@ -36,3 +36,6 @@ Note: Might just include the settings.py and urls.py as simple directions instea
 * ^accounts/ ^password/reset/complete/$ [name='auth_password_reset_complete']
 * ^accounts/ ^password/reset/done/$ [name='auth_password_reset_done']
 
+## Resources
+* Borrow from, clean up, and give credit to https://github.com/macdhuibh/django-registration-templates for the templates
+* CL for django https://docs.djangoproject.com/en/dev/howto/custom-management-commands/
